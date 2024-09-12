@@ -12,11 +12,7 @@
     margin-bottom: 40px;
 }
 
-.paizao {
-    height: 1700px;
-    display: flex;
-    flex-direction: column;
-}
+
 
 .esquerda {
     width: 500px;
